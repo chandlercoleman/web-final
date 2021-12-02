@@ -1,0 +1,18 @@
+.about-nav {
+    background-color: rgba(202, 156, 240, 0.596);
+    display: flex;
+    justify-content: center;
+}
+
+.sky {
+    height: 30%;
+    width: 40%;
+}
+
+.pages {
+    background-color: blueviolet;
+}
+
+.summary {
+    font-size: 5em;
+}

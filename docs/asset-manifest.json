@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/web-final/static/css/main.bab0b925.chunk.css",
-    "main.js": "/web-final/static/js/main.84f56789.chunk.js",
-    "main.js.map": "/web-final/static/js/main.84f56789.chunk.js.map",
+    "main.css": "/web-final/static/css/main.144f3138.chunk.css",
+    "main.js": "/web-final/static/js/main.9db0179d.chunk.js",
+    "main.js.map": "/web-final/static/js/main.9db0179d.chunk.js.map",
     "runtime-main.js": "/web-final/static/js/runtime-main.276dd2a2.js",
     "runtime-main.js.map": "/web-final/static/js/runtime-main.276dd2a2.js.map",
-    "static/js/2.f40acf3b.chunk.js": "/web-final/static/js/2.f40acf3b.chunk.js",
-    "static/js/2.f40acf3b.chunk.js.map": "/web-final/static/js/2.f40acf3b.chunk.js.map",
+    "static/js/2.8dca7ba3.chunk.js": "/web-final/static/js/2.8dca7ba3.chunk.js",
+    "static/js/2.8dca7ba3.chunk.js.map": "/web-final/static/js/2.8dca7ba3.chunk.js.map",
     "static/js/3.bdeb3d74.chunk.js": "/web-final/static/js/3.bdeb3d74.chunk.js",
     "static/js/3.bdeb3d74.chunk.js.map": "/web-final/static/js/3.bdeb3d74.chunk.js.map",
     "index.html": "/web-final/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/web-final/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.f40acf3b.chunk.js.LICENSE.txt": "/web-final/static/js/2.f40acf3b.chunk.js.LICENSE.txt",
+    "static/css/main.144f3138.chunk.css.map": "/web-final/static/css/main.144f3138.chunk.css.map",
+    "static/js/2.8dca7ba3.chunk.js.LICENSE.txt": "/web-final/static/js/2.8dca7ba3.chunk.js.LICENSE.txt",
+    "static/media/collection.984731d7.svg": "/web-final/static/media/collection.984731d7.svg",
+    "static/media/full-nav.345250ba.svg": "/web-final/static/media/full-nav.345250ba.svg",
     "static/media/logo.6ce24c58.svg": "/web-final/static/media/logo.6ce24c58.svg",
-    "static/media/pinksky.7068ab30.jpg": "/web-final/static/media/pinksky.7068ab30.jpg"
+    "static/media/nav-about.4d31bf43.svg": "/web-final/static/media/nav-about.4d31bf43.svg",
+    "static/media/pinksky.447e8b24.jpeg": "/web-final/static/media/pinksky.447e8b24.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.276dd2a2.js",
-    "static/js/2.f40acf3b.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.84f56789.chunk.js"
+    "static/js/2.8dca7ba3.chunk.js",
+    "static/css/main.144f3138.chunk.css",
+    "static/js/main.9db0179d.chunk.js"
   ]
 }
