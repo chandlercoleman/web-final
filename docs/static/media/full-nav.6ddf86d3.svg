@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1950" height="151.5" viewBox="0 0 1950 151.5">
+  <g id="Path_11" data-name="Path 11" transform="translate(30 0.5)" fill="#7d53c5">
+    <path d="M 1919.5 149.5 L 0.5 149.5 L 0.5 0.5 L 1919.5 0.5 L 1919.5 149.5 Z" stroke="none"/>
+    <path d="M 1 1 L 1 149 L 1919 149 L 1919 1 L 1 1 M 0 0 L 1920 0 L 1920 150 L 0 150 L 0 0 Z" stroke="none" fill="#707070"/>
+  </g>
+  <text id="About_me" data-name="About 
+me" transform="translate(150 20.5)" fill="#fbf6f6" font-size="50" font-family="MS-Gothic, MS Gothic"><tspan x="-62.5" y="43">ABOUT </tspan><tspan x="-25" y="103">ME</tspan></text>
+  <path id="Path_12" data-name="Path 12" d="M0,7.31v150.5" transform="translate(315.5 -6.81)" fill="none" stroke="#0a0101" stroke-width="10"/>
+  <text id="WATERCOLOR" transform="translate(352 50.5)" fill="#fbf6f6" font-size="50" font-family="MS-Gothic, MS Gothic"><tspan x="0" y="43">WATERCOLOR</tspan></text>
+  <path id="Path_13" data-name="Path 13" d="M319.474,7.31v150.5" transform="translate(330.526 -7.31)" fill="none" stroke="#0a0101" stroke-width="10"/>
+  <text id="ACRYLIC_PAINT" data-name="ACRYLIC 
+PAINT" transform="translate(796 21.5)" fill="#fbf6f6" font-size="50" font-family="MS-Gothic, MS Gothic"><tspan x="-87.5" y="43">ACRYLIC </tspan><tspan x="-62.5" y="103">PAINT</tspan></text>
+  <path id="Path_5" data-name="Path 5" d="M2,149.5,0,0" transform="translate(960 1.5)" fill="none" stroke="#090303" stroke-width="10"/>
+  <text id="STAINED_GLASS" data-name="STAINED
+GLASS" transform="translate(1126 21.5)" fill="#fbf6f6" font-size="50" font-family="MS-Gothic, MS Gothic"><tspan x="-87.5" y="43">STAINED</tspan><tspan x="-62.5" y="103">GLASS</tspan></text>
+  <path id="Path_16" data-name="Path 16" d="M0,7.31v150.5" transform="translate(1281 -6.81)" fill="none" stroke="#0a0101" stroke-width="10"/>
+  <path id="Path_17" data-name="Path 17" d="M0,7.31v150.5" transform="translate(1628 -7.31)" fill="none" stroke="#0a0101" stroke-width="10"/>
+  <text id="SKETCHES" transform="translate(1461 50.5)" fill="#fbf6f6" font-size="50" font-family="MS-Gothic, MS Gothic"><tspan x="-100" y="43">SKETCHES</tspan></text>
+  <text id="PHOTOGRAPHY" transform="translate(1657 50.5)" fill="#fbf6f6" font-size="50" font-family="MS-Gothic, MS Gothic"><tspan x="0" y="43">PHOTOGRAPHY</tspan></text>
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="279" height="149" transform="translate(31 1.5)" fill="rgba(255,255,255,0.43)"/>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="325" height="150" transform="translate(322 0.5)" fill="rgba(255,255,255,0)"/>
+  <rect id="Rectangle_10" data-name="Rectangle 10" width="301" height="150" transform="translate(655 0.5)" fill="rgba(255,255,255,0)"/>
+  <rect id="Rectangle_11" data-name="Rectangle 11" width="310" height="151" transform="translate(966 0.5)" fill="rgba(255,255,255,0)"/>
+  <rect id="Rectangle_12" data-name="Rectangle 12" width="337" height="150" transform="translate(1286 0.5)" fill="rgba(255,255,255,0)"/>
+  <rect id="Rectangle_13" data-name="Rectangle 13" width="337" height="151" transform="translate(1286 0.5)" fill="none"/>
+  <rect id="Rectangle_14" data-name="Rectangle 14" width="318" height="149" transform="translate(1632 1.5)" fill="none"/>
+  <rect id="Rectangle_15" data-name="Rectangle 15" width="318" height="149" transform="translate(1632 1.5)" fill="none"/>
+  <rect id="Rectangle_16" data-name="Rectangle 16" width="318" height="149" transform="translate(1632 1.5)" fill="rgba(255,255,255,0)"/>
+</svg>

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/web-final/static/css/main.144f3138.chunk.css",
-    "main.js": "/web-final/static/js/main.9db0179d.chunk.js",
-    "main.js.map": "/web-final/static/js/main.9db0179d.chunk.js.map",
+    "main.css": "/web-final/static/css/main.7dde3f43.chunk.css",
+    "main.js": "/web-final/static/js/main.f91f676f.chunk.js",
+    "main.js.map": "/web-final/static/js/main.f91f676f.chunk.js.map",
     "runtime-main.js": "/web-final/static/js/runtime-main.276dd2a2.js",
     "runtime-main.js.map": "/web-final/static/js/runtime-main.276dd2a2.js.map",
     "static/js/2.8dca7ba3.chunk.js": "/web-final/static/js/2.8dca7ba3.chunk.js",
@@ -10,18 +10,19 @@
     "static/js/3.bdeb3d74.chunk.js": "/web-final/static/js/3.bdeb3d74.chunk.js",
     "static/js/3.bdeb3d74.chunk.js.map": "/web-final/static/js/3.bdeb3d74.chunk.js.map",
     "index.html": "/web-final/index.html",
-    "static/css/main.144f3138.chunk.css.map": "/web-final/static/css/main.144f3138.chunk.css.map",
+    "static/css/main.7dde3f43.chunk.css.map": "/web-final/static/css/main.7dde3f43.chunk.css.map",
     "static/js/2.8dca7ba3.chunk.js.LICENSE.txt": "/web-final/static/js/2.8dca7ba3.chunk.js.LICENSE.txt",
-    "static/media/collection.984731d7.svg": "/web-final/static/media/collection.984731d7.svg",
-    "static/media/full-nav.345250ba.svg": "/web-final/static/media/full-nav.345250ba.svg",
+    "static/media/contact.940ed3e0.svg": "/web-final/static/media/contact.940ed3e0.svg",
+    "static/media/full-nav.6ddf86d3.svg": "/web-final/static/media/full-nav.6ddf86d3.svg",
     "static/media/logo.6ce24c58.svg": "/web-final/static/media/logo.6ce24c58.svg",
-    "static/media/nav-about.4d31bf43.svg": "/web-final/static/media/nav-about.4d31bf43.svg",
-    "static/media/pinksky.447e8b24.jpeg": "/web-final/static/media/pinksky.447e8b24.jpeg"
+    "static/media/name.6122c4d6.svg": "/web-final/static/media/name.6122c4d6.svg",
+    "static/media/pinksky.9e449449.jpeg": "/web-final/static/media/pinksky.9e449449.jpeg",
+    "static/media/top-bar.c3b3fa29.svg": "/web-final/static/media/top-bar.c3b3fa29.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.276dd2a2.js",
     "static/js/2.8dca7ba3.chunk.js",
-    "static/css/main.144f3138.chunk.css",
-    "static/js/main.9db0179d.chunk.js"
+    "static/css/main.7dde3f43.chunk.css",
+    "static/js/main.f91f676f.chunk.js"
   ]
 }
