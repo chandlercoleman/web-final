@@ -21,7 +21,7 @@
   
   
   position: relative;
-  right: 17.8%;
+  right: 25.8%;
 }
 
 .summary {
@@ -71,5 +71,5 @@
     float: right;
     justify-content: right;
 
-    
+    position: absolute;
   }
