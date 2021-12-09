@@ -1,5 +1,5 @@
 .about-nav {
-    width: 105em;
+    width: 95em;
     box-sizing: border-box;
 
     background-color: rgba(202, 156, 240, 0.596);
@@ -16,17 +16,18 @@
 }
 
 .pages {
+  width: 55em;
     width: 105em;
     background-color: blueviolet;
 }
 
 .summary {
-  font-size: 2.5em;
+  font-size: 2em;
   object-fit: contain;
   float: right;
   justify-content: right;
   width: 41%;
-  height: 900px;
+  height: 800px;
 
   border: 10px solid rgba(0, 0, 0, 0.356) ;
     padding: 35px;
@@ -35,7 +36,7 @@
 }
 .form {
     background-color: #9778c9;
-    width: 50em;
+    width: 35em;
     height: 5em;
     border-radius: 5px;
     display: flex;
@@ -43,7 +44,7 @@
     align-items: center;
 
     position:absolute;
-    left: 45%;
+    left: 54%;
     top: 13%;
   }
 
@@ -59,7 +60,7 @@
   .name-icon {
     float: right;
     position: relative;
-    right: 50px;
+    right: 40px;
     top: 50px;
   }
 
