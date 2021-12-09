@@ -1,5 +1,5 @@
 .about-nav {
-    width: 95em;
+    width: 102em;
     box-sizing: border-box;
 
     background-color: rgba(202, 156, 240, 0.596);
@@ -16,18 +16,21 @@
 }
 
 .pages {
-  width: 55em;
-    width: 105em;
-    background-color: blueviolet;
+  width: 137em;
+  display: flex;
+  
+  
+  position: relative;
+  right: 17.8%;
 }
 
 .summary {
-  font-size: 2em;
+  font-size: 1.8em;
   object-fit: contain;
   float: right;
   justify-content: right;
   width: 41%;
-  height: 800px;
+  height: 600px;
 
   border: 10px solid rgba(0, 0, 0, 0.356) ;
     padding: 35px;
@@ -43,7 +46,7 @@
     flex-direction: row;
     align-items: center;
 
-    position:absolute;
+    position: absolute;
     left: 54%;
     top: 13%;
   }
